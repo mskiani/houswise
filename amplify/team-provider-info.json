@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hauswise-dev-221238-authRole",
+      "UnauthRoleArn": "arn:aws:iam::587364652541:role/amplify-hauswise-dev-221238-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::587364652541:role/amplify-hauswise-dev-221238-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hauswise-dev-221238-deployment",
+      "UnauthRoleName": "amplify-hauswise-dev-221238-unauthRole",
+      "StackName": "amplify-hauswise-dev-221238",
+      "StackId": "arn:aws:cloudformation:us-east-1:587364652541:stack/amplify-hauswise-dev-221238/26e6f0c0-a024-11ee-8619-0a017f76ed2d",
+      "AmplifyAppId": "d3ogcv5xlxre6d"
+    }
+  }
+}
